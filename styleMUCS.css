@@ -1,7 +1,7 @@
 *{
 	margin: 0;
 	padding: 0;
-	font-family: sans-serif;
+	font-family: Impact, Charcoal, sans-serif;
 }
 .main{
 	width:100%;
@@ -20,7 +20,7 @@ nav{
 	align-items: center;
 }
 .MUlogo{
-	flex-basis: 20%;
+	flex-basis: 10%;
 }
 .MUlogo img{
 	width: 350px;
@@ -35,7 +35,7 @@ nav{
 	margin: 0 20px;
 }
 .nav-links ul li a{
-	color: #fff;
+	color: #185633;
 	text-decoration: none;
 }
 	
